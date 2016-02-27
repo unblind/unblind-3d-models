@@ -2,7 +2,7 @@
 3d models for unblind project
 
 # Custom designed parts:
-## Battery Side Holder (Belt allowed)
+## Battery Side Holder (Belt supported)
 [Battery Side Holder](https://github.com/unblind/unblind-3d-models/blob/master/StlModels/PinzaLateral.stl)
 
 ## Bottom Holder
